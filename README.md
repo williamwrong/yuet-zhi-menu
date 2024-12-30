@@ -4,7 +4,7 @@
 #### 蒸
 - [土魷馬蹄蒸肉餅](https://github.com/williamwrong/yuet-zhi-menu/blob/main/meal/土魷馬蹄蒸肉餅.md)
 - [梅菜蒸肉餅](https://github.com/williamwrong/yuet-zhi-menu/blob/main/meal/梅菜蒸肉餅.md)
-- [蒸水蛋](#) ...
+- [蒸水蛋](https://github.com/williamwrong/yuet-zhi-menu/blob/main/meal/蒸水蛋.md)
 
 #### 煮
 - [肉碎煮豆腐](https://github.com/williamwrong/yuet-zhi-menu/blob/main/meal/肉碎煮豆腐.md)
